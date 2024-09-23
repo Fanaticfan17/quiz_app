@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Main_Text">Here\'s the question</string>
+    <string name="False_button">No</string>
+    <string name="True_button">Yes</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="question_australia">Is mayonnaise an instrument?</string>
+    <string name="question_mideast">Does 2 + 2 = 5?</string>
+    <string name="question_oceans">Is violence always the answer?</string>
+    <string name="question_africa">Am I going to fail this class?</string>
+    <string name="question_america">Are black people responsible for more than 50% of crimes committed worldwide?</string>
+    <string name="question_asia">Is cereal considered a soup?</string>
+    <string name="question_europe">Is a hot-dog a sandwich?</string>
+</resources>
